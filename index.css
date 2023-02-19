@@ -1,0 +1,22 @@
+.head{
+    color:red;
+    text-align:center;
+}
+.head2{
+    /* align-self: start; */
+    text-align: center;
+    color: blue;
+
+}
+.bgm{
+    background-color: aqua;
+}
+.bgm1{
+    background-color: blueviolet;
+}
+.imagecenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+  }
